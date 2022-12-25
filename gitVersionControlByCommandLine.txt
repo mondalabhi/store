@@ -1,0 +1,8 @@
+git init = to inisiate in any folder
+git config = to config your email and name
+git add = to add in git 
+git commit -m "<text>" = to commit your work.
+git status = to show it git added or not
+git log = after git commit it show details about that file
+git checkout <filename> = to shift privious work
+git defferent = to show diffence between privious and after work
